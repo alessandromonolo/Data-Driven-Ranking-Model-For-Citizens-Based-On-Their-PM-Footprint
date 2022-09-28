@@ -1,0 +1,165 @@
+User_Gender,User_Age,User_Province,Smoker_Type,N_Cigarette_Daily_Smoker,Transport_Means,N_x_Week_Use_Motor_Transport,KM_x_Week_Motor_Transport,M2_House,Heating_System,House_Temp,Fireplace,N_x_Year_Fireplace,N_Flights_x_Year,N_On-Line_Purchase_x_Month,N_Off-Line_Purchase_x_Month,Days_meatmeal_x_Week
+Woman,18 - 24,Milano,Daily Smoker,1 to 5,Public transport,,,40,Traditional radiator heating,18-19,0,,6,1 to 5,6 to 10,3 to 4
+Man,25 - 30,Milano,Daily Smoker,1 to 5,Motor car,3 to 4,51 to 100,120,Traditional floor heating,20-21,0,,8,1 to 5,1 to 5,7
+Woman,18 - 24,Pavia,Daily Smoker,1 to 5,Public transport,,,35,Traditional radiator heating,22-23,0,,4,1 to 5,1 to 5,3 to 4
+Man,25 - 30,Milano,No smoker,,Motor car,8 to 14,101 to 200,105,Traditional radiator heating,18-19,0,,2,11 to 15,1 to 5,7
+Man,18 - 24,Milano,Daily Smoker,6 to 10,Motor car,5 to 7,51 to 100,123,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,7
+Man,18 - 24,Milano,No smoker,,Public transport,,,160,Traditional radiator heating,20-21,0,,4,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Milano,3 to 5 month,,Public transport,3 to 4,1 to 50,30,Traditional radiator heating,22-23,0,,10,6 to 10,1 to 5,3 to 4
+Man,18 - 24,Milano,No smoker,,Motor car,8 to 14,1 to 50,150,Traditional radiator heating,18-19,1,1 to 20,2,1 to 5,1 to 5,7
+Man,18 - 24,Milano,3 to 5 month,,Motor car,8 to 14,51 to 100,144,Traditional radiator heating,18-19,0,,4,1 to 5,6 to 10,3 to 4
+Woman,51 - 60,Milano,No smoker,,Bicycle,1 to 2,1 to 50,100,Traditional radiator heating,18-19,0,,0,6 to 10,1 to 5,1 to 2
+Man,25 - 30,Milano,3 to 5 week,,Motor car,5 to 7,1 to 50,110,Pellet stove,20-21,1,≥61,0,1 to 5,1 to 5,3 to 4
+Man,18 - 24,Milano,No smoker,,Motor car,≥15,101 to 200,300,Traditional radiator heating,22-23,1,≥61,2,6 to 10,11 to 15,7
+Man,31 - 40,Varese,No smoker,,Motor car,8 to 14,201 to 500,60,Traditional radiator heating,18-19,0,,2,11 to 15,6 to 10,3 to 4
+Woman,18 - 24,Milano,No smoker,,Motor car,5 to 7,1 to 50,120,Traditional radiator heating,20-21,1,1 to 20,4,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Milano,No smoker,,Motor car,5 to 7,51 to 100,160,Traditional radiator heating,18-19,1,1 to 20,2,1 to 5,1 to 5,1 to 2
+Man,25 - 30,Milano,Daily Smoker,6 to 10,Motor car,≥15,101 to 200,123,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,3 to 4
+Woman,51 - 60,Milano,No smoker,,Motor car,8 to 14,101 to 200,120,Traditional floor heating,20-21,0,,4,1 to 5,6 to 10,3 to 4
+Woman,41 - 50,Milano,No smoker,,Motor car,≥15,201 to 500,140,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,3 to 4
+Woman,18 - 24,Varese,No smoker,,Motor car,3 to 4,1 to 50,200,Traditional radiator heating,18-19,1,1 to 20,3,1 to 5,6 to 10,3 to 4
+Man,25 - 30,Milano,Daily Smoker,11 to 15,Motor car,8 to 14,≥500,130,Traditional radiator heating,18-19,0,,1,1 to 5,6 to 10,3 to 4
+Woman,18 - 24,Milano,No smoker,,Motor car,5 to 7,1 to 50,80,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,1 to 5,1 to 2
+Man,18 - 24,Milano,Daily Smoker,1 to 5,Motor car,5 to 7,101 to 200,220,Pellet stove,22-23,0,,10,1 to 5,1 to 5,3 to 4
+Man,18 - 24,Milano,No smoker,,Motor car,3 to 4,1 to 50,105,Traditional radiator heating,18-19,1,1 to 20,1,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Varese,No smoker,,Public transport,1 to 2,1 to 50,106,Traditional floor heating,20-21,0,,5,1 to 5,1 to 5,1 to 2
+Man,25 - 30,Milano,Daily Smoker,6 to 10,Motor car,8 to 14,101 to 200,120,Traditional floor heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Man,25 - 30,Varese,No smoker,,Motor car,≥15,≥500,65,Traditional radiator heating,20-21,0,,1,6 to 10,6 to 10,3 to 4
+Man,18 - 24,Milano,No smoker,,Motor car,5 to 7,1 to 50,130,Traditional radiator heating,18-19,1,1 to 20,2,1 to 5,1 to 5,3 to 4
+Woman,51 - 60,Milano,No smoker,,Motor car,3 to 4,51 to 100,95,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Milano,Daily Smoker,6 to 10,Motor car,≥15,51 to 100,231,Traditional radiator heating,18-19,0,,0,6 to 10,1 to 5,3 to 4
+Man,25 - 30,Milano,Daily Smoker,6 to 10,Motor car,5 to 7,101 to 200,200,Fireplace/Wood stove,20-21,1,≥61,4,1 to 5,6 to 10,7
+Man,25 - 30,Milano,Daily Smoker,11 to 15,Motor car,5 to 7,101 to 200,140,Traditional radiator heating,18-19,0,,4,1 to 5,≥21,3 to 4
+Woman,25 - 30,Milano,No smoker,,Motor car,8 to 14,101 to 200,95,Traditional radiator heating,20-21,0,,4,16 to 20,16 to 20,1 to 2
+Man,18 - 24,Varese,No smoker,,Motor car,≥15,≥500,92,Traditional radiator heating,22-23,0,,4,1 to 5,6 to 10,3 to 4
+Woman,25 - 30,Milano,3 to 5 month,,Motor car,8 to 14,1 to 50,145,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Woman,25 - 30,Milano,Daily Smoker,6 to 10,Public transport,5 to 7,1 to 50,100,Traditional radiator heating,20-21,0,,6,1 to 5,6 to 10,7
+Woman,25 - 30,Milano,No smoker,,Public transport,,,50,Traditional radiator heating,20-21,0,,8,1 to 5,1 to 5,3 to 4
+Woman,25 - 30,Milano,No smoker,,Motor car,≥15,1 to 50,120,Traditional radiator heating,20-21,0,,1,6 to 10,1 to 5,1 to 2
+Man,25 - 30,Varese,No smoker,,Motor car,8 to 14,201 to 500,90,Traditional radiator heating,18-19,0,,6,1 to 5,1 to 5,1 to 2
+Man,25 - 30,Milano,Daily Smoker,6 to 10,Public transport,1 to 2,1 to 50,250,Traditional radiator heating,18-19,1,1 to 20,1,1 to 5,1 to 5,3 to 4
+Woman,25 - 30,Milano,No smoker,,Motor car,8 to 14,1 to 50,110,Pellet stove,20-21,0,,4,1 to 5,6 to 10,1 to 2
+Woman,18 - 24,Milano,3 to 5 month,,Public transport,5 to 7,51 to 100,200,Traditional radiator heating,22-23,0,,2,1 to 5,6 to 10,1 to 2
+Woman,25 - 30,Milano,No smoker,,Motor car,5 to 7,1 to 50,150,Traditional floor heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Man,25 - 30,Milano,Daily Smoker,6 to 10,Motorcycle,8 to 14,101 to 200,120,Traditional radiator heating,20-21,0,,6,1 to 5,1 to 5,7
+Man,51 - 60,Milano,No smoker,,Motor car,≥15,201 to 500,150,Traditional radiator heating,20-21,1,≥61,0,1 to 5,1 to 5,1 to 2
+Man,31 - 40,Milano,Daily Smoker,16 to 20,Hybrid car,1 to 2,1 to 50,75,Traditional radiator heating,20-21,0,,1,6 to 10,1 to 5,1 to 2
+Woman,25 - 30,Milano,3 to 5 week,,Motor car,3 to 4,101 to 200,100,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,7
+Woman,25 - 30,Milano,No smoker,,Motor car,1 to 2,1 to 50,70,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+Man,25 - 30,Varese,No smoker,,Motor car,≥15,101 to 200,105,Traditional radiator heating,18-19,0,,2,1 to 5,6 to 10,3 to 4
+Man,25 - 30,Milano,No smoker,,Motor car,≥15,51 to 100,100,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,3 to 4
+Man,31 - 40,Varese,No smoker,,Motor car,≥15,51 to 100,50,Traditional radiator heating,22-23,0,,2,1 to 5,1 to 5,3 to 4
+Man,25 - 30,Varese,No smoker,,Motor car,8 to 14,101 to 200,80,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,3 to 4
+Man,18 - 24,Milano,No smoker,,Motor car,8 to 14,51 to 100,100,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Varese,No smoker,,Motor car,3 to 4,1 to 50,90,Air conditioner,24-25,0,,0,16 to 20,1 to 5,3 to 4
+Woman,25 - 30,Milano,3 to 5 month,,Motor car,3 to 4,1 to 50,85,Traditional radiator heating,22-23,0,,6,1 to 5,1 to 5,3 to 4
+Man,51 - 60,Milano,Daily Smoker,16 to 20,Motor car,≥15,201 to 500,100,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Man,41 - 50,Lecco,No smoker,,Motor car,≥15,51 to 100,50,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,3 to 4
+Woman,31 - 40,Lecco,No smoker,,Motor car,5 to 7,1 to 50,55,Pellet stove,18-19,0,,0,1 to 5,1 to 5,3 to 4
+Man,25 - 30,Milano,Daily Smoker,6 to 10,Motor car,8 to 14,101 to 200,300,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,7
+Woman,25 - 30,Milano,No smoker,,Motor car,≥15,201 to 500,400,Traditional radiator heating,20-21,0,,6,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Milano,No smoker,,Motor car,3 to 4,1 to 50,120,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Lecco,No smoker,,Motor car,5 to 7,201 to 500,80,Traditional radiator heating,20-21,0,,0,1 to 5,6 to 10,3 to 4
+Woman,51 - 60,Lecco,No smoker,,Motor car,5 to 7,101 to 200,80,Traditional radiator heating,20-21,0,,0,1 to 5,6 to 10,3 to 4
+Man,18 - 24,Pavia,No smoker,,Motor car,3 to 4,101 to 200,70,Traditional radiator heating,20-21,0,,14,1 to 5,1 to 5,1 to 2
+Woman,18 - 24,Milano,No smoker,,Motor car,8 to 14,1 to 50,800,Traditional radiator heating,18-19,1,1 to 20,0,1 to 5,11 to 15,1 to 2
+Woman,41 - 50,Milano,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,18-19,0,,4,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Milano,No smoker,,Motor car,3 to 4,51 to 100,170,Traditional radiator heating,18-19,0,,14,1 to 5,6 to 10,3 to 4
+Woman,18 - 24,Sondrio,3 to 5 week,,Electric car,≥15,51 to 100,200,Fireplace/Wood stove,20-21,0,,2,1 to 5,1 to 5,0
+Woman,18 - 24,Pavia,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,18 - 24,Cremona,No smoker,,Public transport,1 to 2,1 to 50,60,Traditional radiator heating,18-19,0,,0,1 to 5,6 to 10,1 to 2
+Woman,18 - 24,Brescia,Daily Smoker,1 to 5,Hybrid car,8 to 14,51 to 100,130,Fireplace/Wood stove,18-19,1,21 to 40,0,1 to 5,6 to 10,1 to 2
+Woman,18 - 24,Milano,No smoker,,Public transport,,,70,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+Woman,31 - 40,Varese,No smoker,,Motor car,8 to 14,51 to 100,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+Man,18 - 24,Milano,3 to 5 week,,Motor car,1 to 2,51 to 100,230,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Woman,18 - 24,Milano,No smoker,,Public transport,1 to 2,51 to 100,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,0
+Man,18 - 24,Milano,No smoker,,Motor car,5 to 7,201 to 500,100,Traditional radiator heating,20-21,0,,4,1 to 5,1 to 5,3 to 4
+Woman,51 - 60,Milano,No smoker,,Motor car,≥15,1 to 50,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,18 - 24,Milano,No smoker,,Public transport,1 to 2,1 to 50,90,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+Woman,18 - 24,Pavia,3 to 5 month,,Public transport,1 to 2,1 to 50,177,Traditional radiator heating,18-19,1,1 to 20,0,1 to 5,1 to 5,0
+Man,25 - 30,Varese,3 to 5 week,,Motor car,≥15,201 to 500,150,Fireplace/Wood stove,20-21,1,≥61,4,1 to 5,1 to 5,7
+Man,25 - 30,Milano,Daily Smoker,16 to 20,Motor car,3 to 4,101 to 200,100,Traditional radiator heating,18-19,0,,1,1 to 5,6 to 10,3 to 4
+Woman,51 - 60,Monza,No smoker,,Motor car,5 to 7,1 to 50,100,Traditional radiator heating,18-19,0,,2,1 to 5,6 to 10,1 to 2
+Man,25 - 30,Milano,No smoker,,Motor car,≥15,≥500,200,Traditional radiator heating,18-19,1,≥61,10,1 to 5,1 to 5,7
+Woman,18 - 24,Milano,Daily Smoker,1 to 5,Motor car,5 to 7,51 to 100,110,Pellet stove,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Woman,18 - 24,Milano,No smoker,,Public transport,≥15,,100,Traditional radiator heating,18-19,0,,0,1 to 5,6 to 10,7
+Man,18 - 24,Cremona,No smoker,,Public transport,1 to 2,51 to 100,85,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,1 to 5,3 to 4
+Man,31 - 40,Milano,3 to 5 month,,Bicycle,1 to 2,1 to 50,50,Traditional radiator heating,18-19,0,,20,11 to 15,≥21,1 to 2
+Man,25 - 30,Milano,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,7
+Woman,51 - 60,Como,No smoker,,Motor car,3 to 4,1 to 50,50,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,18 - 24,Milano,No smoker,,Motor car,8 to 14,51 to 100,150,Traditional radiator heating,22-23,1,1 to 20,8,11 to 15,16 to 20,7
+Man,51 - 60,Milano,No smoker,,Motor car,≥15,≥500,200,Traditional radiator heating,20-21,1,1 to 20,8,1 to 5,1 to 5,3 to 4
+Man,25 - 30,Milano,Daily Smoker,16 to 20,Motor car,≥15,≥500,90,Solar heating,24-25,0,,4,11 to 15,11 to 15,7
+Woman,18 - 24,Pavia,Daily Smoker,1 to 5,Public transport,≥15,201 to 500,60,Pellet stove,20-21,0,,4,1 to 5,1 to 5,7
+Woman,25 - 30,Milano,No smoker,,Public transport,5 to 7,1 to 50,150,Traditional floor heating,20-21,1,≥61,20,1 to 5,6 to 10,1 to 2
+Man,31 - 40,Milano,No smoker,,Motorcycle,1 to 2,101 to 200,72,Traditional radiator heating,20-21,0,,4,1 to 5,1 to 5,1 to 2
+Woman,31 - 40,Milano,No smoker,,Public transport,5 to 7,1 to 50,50,Traditional radiator heating,22-23,0,,12,1 to 5,1 to 5,3 to 4
+Woman,31 - 40,Milano,No smoker,,Motor car,3 to 4,1 to 50,50,Traditional radiator heating,≥26,0,,15,1 to 5,≥21,0
+Woman,25 - 30,Monza,No smoker,,Motor car,8 to 14,≥500,80,Traditional radiator heating,20-21,0,,4,1 to 5,6 to 10,3 to 4
+Man,25 - 30,Milano,No smoker,,Public transport,1 to 2,1 to 50,90,Traditional radiator heating,22-23,0,,8,1 to 5,1 to 5,3 to 4
+Woman,41 - 50,Varese,No smoker,,Motor car,3 to 4,101 to 200,200,Traditional radiator heating,20-21,0,,1,1 to 5,6 to 10,1 to 2
+Man,25 - 30,Milano,Daily Smoker,6 to 10,Motor car,≥15,≥500,85,Fireplace/Wood stove,18-19,1,≥61,6,1 to 5,1 to 5,3 to 4
+Woman,51 - 60,Lecco,Daily Smoker,6 to 10,Motor car,3 to 4,1 to 50,150,Traditional radiator heating,20-21,1,≥61,2,1 to 5,1 to 5,3 to 4
+Man,31 - 40,Milano,3 to 5 month,,Bicycle,1 to 2,1 to 50,60,Traditional radiator heating,20-21,0,,20,1 to 5,1 to 5,3 to 4
+Woman,25 - 30,Milano,3 to 5 week,,Motor car,8 to 14,201 to 500,360,Traditional radiator heating,20-21,1,1 to 20,6,1 to 5,6 to 10,1 to 2
+Man,25 - 30,Milano,No smoker,,Motor car,≥15,51 to 100,120,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,3 to 4
+Woman,18 - 24,Milano,No smoker,,Public transport,3 to 4,51 to 100,180,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,1 to 2
+Woman,41 - 50,Milano,No smoker,,Motor car,5 to 7,201 to 500,90,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Milano,No smoker,,Motor car,5 to 7,201 to 500,110,Traditional floor heating,20-21,0,,4,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Pavia,No smoker,,Motor car,1 to 2,51 to 100,70,Traditional radiator heating,18-19,0,,4,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Lecco,No smoker,,Motor car,5 to 7,1 to 50,123,Pellet stove,20-21,1,1 to 20,0,1 to 5,6 to 10,1 to 2
+Man,51 - 60,Milano,No smoker,,Motor car,5 to 7,1 to 50,90,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Varese,No smoker,,Motor car,≥15,101 to 200,229,Traditional radiator heating,18-19,1,1 to 20,1,1 to 5,6 to 10,1 to 2
+Man,25 - 30,Milano,No smoker,,Motor car,3 to 4,1 to 50,75,Traditional radiator heating,20-21,0,,16,1 to 5,11 to 15,1 to 2
+Woman,25 - 30,Milano,3 to 5 week,,Motor car,3 to 4,51 to 100,70,Traditional floor heating,22-23,0,,2,1 to 5,1 to 5,3 to 4
+Man,31 - 40,Milano,No smoker,,Motor car,1 to 2,51 to 100,50,Traditional radiator heating,20-21,0,,10,16 to 20,1 to 5,3 to 4
+Man,51 - 60,Como,No smoker,,Motor car,≥15,≥500,90,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Woman,18 - 24,Milano,Daily Smoker,6 to 10,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Woman,41 - 50,Monza,No smoker,,Motor car,8 to 14,51 to 100,95,Traditional radiator heating,20-21,0,,0,1 to 5,11 to 15,3 to 4
+Woman,51 - 60,Milano,No smoker,,Motor car,8 to 14,1 to 50,100,Traditional radiator heating,20-21,0,,0,6 to 10,6 to 10,1 to 2
+Woman,31 - 40,Lecco,No smoker,,Motor car,≥15,1 to 50,90,Traditional radiator heating,18-19,0,,0,1 to 5,1 to 5,3 to 4
+Woman,51 - 60,Milano,No smoker,,Motor car,5 to 7,1 to 50,150,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,≥21,1 to 2
+Woman,31 - 40,Como,No smoker,,Hybrid car,5 to 7,101 to 200,90,Traditional floor heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,31 - 40,Sondrio,No smoker,,Motor car,3 to 4,51 to 100,60,Pellet stove,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Milano,Daily Smoker,16 to 20,Motor car,8 to 14,51 to 100,120,Traditional radiator heating,20-21,0,,0,1 to 5,6 to 10,1 to 2
+Woman,41 - 50,Monza,Daily Smoker,11 to 15,Motor car,1 to 2,1 to 50,150,Pellet stove,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,18 - 24,Pavia,No smoker,,Bicycle,,,80,Traditional radiator heating,20-21,0,,10,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Milano,No smoker,,Motor car,8 to 14,1 to 50,120,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Man,31 - 40,Milano,Daily Smoker,11 to 15,Motorcycle,≥15,201 to 500,90,Traditional floor heating,20-21,0,,4,6 to 10,6 to 10,7
+Woman,51 - 60,Monza,No smoker,,Motor car,3 to 4,101 to 200,140,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+Man,31 - 40,Cremona,Daily Smoker,16 to 20,Motor car,8 to 14,101 to 200,75,Traditional radiator heating,20-21,0,,2,1 to 5,11 to 15,3 to 4
+Woman,51 - 60,Cremona,No smoker,,Motor car,1 to 2,51 to 100,130,Traditional radiator heating,18-19,0,,0,1 to 5,6 to 10,1 to 2
+Man,51 - 60,Cremona,No smoker,,Motor car,1 to 2,1 to 50,120,Traditional radiator heating,18-19,0,,0,1 to 5,11 to 15,1 to 2
+Woman,41 - 50,Milano,No smoker,,Motor car,≥15,101 to 200,160,Traditional radiator heating,20-21,0,,2,1 to 5,≥21,3 to 4
+Woman,51 - 60,Como,No smoker,,Motor car,5 to 7,1 to 50,135,Traditional floor heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Man,51 - 60,Cremona,No smoker,,Bicycle,3 to 4,51 to 100,206,Traditional radiator heating,18-19,1,41 to 60,0,1 to 5,16 to 20,3 to 4
+Woman,51 - 60,Cremona,No smoker,,Bicycle,5 to 7,51 to 100,180,Traditional radiator heating,18-19,1,21 to 40,0,1 to 5,≥21,1 to 2
+Woman,41 - 50,Milano,No smoker,,Motor car,1 to 2,1 to 50,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+Man,31 - 40,Milano,No smoker,,Public transport,1 to 2,101 to 200,60,Traditional floor heating,20-21,0,,2,1 to 5,1 to 5,1 to 2
+Man,51 - 60,Como,No smoker,,Motor car,≥15,201 to 500,50,Traditional radiator heating,18-19,0,,0,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Milano,No smoker,,Motor car,5 to 7,51 to 100,75,Traditional radiator heating,18-19,0,,4,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Lecco,No smoker,,Motor car,5 to 7,51 to 100,140,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+Woman,25 - 30,Varese,No smoker,,Hybrid car,1 to 2,51 to 100,200,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,1 to 2
+Woman,18 - 24,Lecco,No smoker,,Public transport,,,45,Traditional radiator heating,20-21,0,,2,1 to 5,6 to 10,1 to 2
+Woman,25 - 30,Bergamo,No smoker,,Hybrid car,≥15,101 to 200,130,Pellet stove,18-19,1,1 to 20,2,1 to 5,1 to 5,1 to 2
+Man,25 - 30,Varese,No smoker,,Motor car,5 to 7,1 to 50,100,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,7
+Woman,18 - 24,Como,No smoker,,Motor car,3 to 4,1 to 50,275,Traditional floor heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+Woman,18 - 24,Como,No smoker,,Motor car,8 to 14,51 to 100,170,Traditional radiator heating,20-21,1,1 to 20,2,6 to 10,1 to 5,7
+Woman,51 - 60,Bergamo,No smoker,,Motor car,≥15,51 to 100,200,Traditional radiator heating,18-19,1,21 to 40,2,1 to 5,6 to 10,1 to 2
+Man,51 - 60,Bergamo,Daily Smoker,11 to 15,Motor car,3 to 4,51 to 100,70,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,1 to 5,3 to 4
+Woman,41 - 50,Bergamo,No smoker,,Motor car,≥15,101 to 200,400,Traditional floor heating,20-21,1,1 to 20,2,1 to 5,1 to 5,3 to 4
+Woman,41 - 50,Bergamo,No smoker,,Motor car,≥15,101 to 200,80,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Bergamo,3 to 5 month,,Motor car,1 to 2,1 to 50,70,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,1 to 5,1 to 2
+Woman,51 - 60,Bergamo,No smoker,,Motor car,8 to 14,51 to 100,130,Traditional radiator heating,18-19,0,,0,1 to 5,1 to 5,3 to 4
+Woman,25 - 30,Milano,No smoker,,Hybrid car,≥15,201 to 500,180,Traditional floor heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+Woman,25 - 30,Milano,No smoker,,Public transport,3 to 4,1 to 50,55,Traditional radiator heating,20-21,0,,6,1 to 5,1 to 5,1 to 2
+Woman,18 - 24,Milano,No smoker,,Motor car,,,140,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,3 to 4
+Man,18 - 24,Milano,No smoker,,Public transport,1 to 2,1 to 50,150,Traditional radiator heating,18-19,0,,2,1 to 5,6 to 10,7
+Man,18 - 24,Mantova,Daily Smoker,1 to 5,Public transport,3 to 4,51 to 100,62,Pellet stove,20-21,0,,20,1 to 5,1 to 5,3 to 4
+Woman,18 - 24,Lodi,No smoker,,Motor car,3 to 4,101 to 200,123,Fireplace/Wood stove,20-21,1,≥61,0,6 to 10,≥21,3 to 4
+Man,18 - 24,Milano,No smoker,,Motor car,3 to 4,201 to 500,80,Traditional radiator heating,22-23,1,1 to 20,2,1 to 5,1 to 5,3 to 4
+Man,18 - 24,Mantova,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,20-21,0,,4,6 to 10,6 to 10,7
+Non-Binary,31 - 40,Mantova,Daily Smoker,6 to 10,Hybrid car,1 to 2,1 to 50,200,Pellet stove,20-21,1,21 to 40,3,16 to 20,11 to 15,7
+Non-Binary,18 - 24,Milano,Daily Smoker,11 to 15,Bicycle,8 to 14,101 to 200,100,Traditional radiator heating,18-19,1,≥61,0,1 to 5,6 to 10,3 to 4
+Woman,25 - 30,Cremona,Daily Smoker,6 to 10,Motor car,5 to 7,1 to 50,70,Traditional radiator heating,20-21,0,,1,1 to 5,6 to 10,3 to 4
+Woman,18 - 24,Lodi,No smoker,,Motor car,3 to 4,101 to 200,123,Fireplace/Wood stove,20-21,1,≥61,0,6 to 10,≥21,3 to 4

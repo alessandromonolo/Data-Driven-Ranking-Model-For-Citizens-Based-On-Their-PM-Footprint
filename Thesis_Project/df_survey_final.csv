@@ -1,0 +1,165 @@
+User,User_Gender,User_Age,Smoker_Type,N_Cigarette_Daily_Smoker,Transport_Means,N_x_Week_Use_Motor_Transport,KM_x_Week_Motor_Transport,M2_House,Heating_System,House_Temp,Fireplace,N_x_Year_Fireplace,N_Flights_x_Year,N_On-Line_Purchase_x_Month,N_Off-Line_Purchase_x_Month,Days_meatmeal_x_Week
+1,Woman,18 - 24,Daily Smoker,1 to 5,Public transport,,,40,Traditional radiator heating,18-19,0,,6,1 to 5,6 to 10,3 to 4
+2,Man,25 - 30,Daily Smoker,1 to 5,Motor car,3 to 4,51 to 100,120,Traditional floor heating,20-21,0,,8,1 to 5,1 to 5,7
+3,Woman,18 - 24,Daily Smoker,1 to 5,Public transport,,,35,Traditional radiator heating,22-23,0,,4,1 to 5,1 to 5,3 to 4
+4,Man,25 - 30,No smoker,,Motor car,8 to 14,101 to 200,105,Traditional radiator heating,18-19,0,,2,11 to 15,1 to 5,7
+5,Man,18 - 24,Daily Smoker,6 to 10,Motor car,5 to 7,51 to 100,123,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,7
+6,Man,18 - 24,No smoker,,Public transport,,,160,Traditional radiator heating,20-21,0,,4,1 to 5,1 to 5,1 to 2
+7,Woman,25 - 30,3 to 5 month,,Public transport,3 to 4,1 to 50,30,Traditional radiator heating,22-23,0,,10,6 to 10,1 to 5,3 to 4
+8,Man,18 - 24,No smoker,,Motor car,8 to 14,1 to 50,150,Traditional radiator heating,18-19,1,1 to 20,2,1 to 5,1 to 5,7
+9,Man,18 - 24,3 to 5 month,,Motor car,8 to 14,51 to 100,144,Traditional radiator heating,18-19,0,,4,1 to 5,6 to 10,3 to 4
+10,Woman,51 - 60,No smoker,,Bicycle,1 to 2,1 to 50,100,Traditional radiator heating,18-19,0,,0,6 to 10,1 to 5,1 to 2
+11,Man,25 - 30,3 to 5 week,,Motor car,5 to 7,1 to 50,110,Pellet stove,20-21,1,≥61,0,1 to 5,1 to 5,3 to 4
+12,Man,18 - 24,No smoker,,Motor car,≥15,101 to 200,300,Traditional radiator heating,22-23,1,≥61,2,6 to 10,11 to 15,7
+13,Man,31 - 40,No smoker,,Motor car,8 to 14,201 to 500,60,Traditional radiator heating,18-19,0,,2,11 to 15,6 to 10,3 to 4
+14,Woman,18 - 24,No smoker,,Motor car,5 to 7,1 to 50,120,Traditional radiator heating,20-21,1,1 to 20,4,1 to 5,1 to 5,1 to 2
+15,Woman,51 - 60,No smoker,,Motor car,5 to 7,51 to 100,160,Traditional radiator heating,18-19,1,1 to 20,2,1 to 5,1 to 5,1 to 2
+16,Man,25 - 30,Daily Smoker,6 to 10,Motor car,≥15,101 to 200,123,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,3 to 4
+17,Woman,51 - 60,No smoker,,Motor car,8 to 14,101 to 200,120,Traditional floor heating,20-21,0,,4,1 to 5,6 to 10,3 to 4
+18,Woman,41 - 50,No smoker,,Motor car,≥15,201 to 500,140,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,3 to 4
+19,Woman,18 - 24,No smoker,,Motor car,3 to 4,1 to 50,200,Traditional radiator heating,18-19,1,1 to 20,3,1 to 5,6 to 10,3 to 4
+20,Man,25 - 30,Daily Smoker,11 to 15,Motor car,8 to 14,≥500,130,Traditional radiator heating,18-19,0,,1,1 to 5,6 to 10,3 to 4
+21,Woman,18 - 24,No smoker,,Motor car,5 to 7,1 to 50,80,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,1 to 5,1 to 2
+22,Man,18 - 24,Daily Smoker,1 to 5,Motor car,5 to 7,101 to 200,220,Pellet stove,22-23,0,,10,1 to 5,1 to 5,3 to 4
+23,Man,18 - 24,No smoker,,Motor car,3 to 4,1 to 50,105,Traditional radiator heating,18-19,1,1 to 20,1,1 to 5,1 to 5,1 to 2
+24,Woman,25 - 30,No smoker,,Public transport,1 to 2,1 to 50,106,Traditional floor heating,20-21,0,,5,1 to 5,1 to 5,1 to 2
+25,Man,25 - 30,Daily Smoker,6 to 10,Motor car,8 to 14,101 to 200,120,Traditional floor heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+26,Man,25 - 30,No smoker,,Motor car,≥15,≥500,65,Traditional radiator heating,20-21,0,,1,6 to 10,6 to 10,3 to 4
+27,Man,18 - 24,No smoker,,Motor car,5 to 7,1 to 50,130,Traditional radiator heating,18-19,1,1 to 20,2,1 to 5,1 to 5,3 to 4
+28,Woman,51 - 60,No smoker,,Motor car,3 to 4,51 to 100,95,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,1 to 2
+29,Woman,25 - 30,Daily Smoker,6 to 10,Motor car,≥15,51 to 100,231,Traditional radiator heating,18-19,0,,0,6 to 10,1 to 5,3 to 4
+30,Man,25 - 30,Daily Smoker,6 to 10,Motor car,5 to 7,101 to 200,200,Fireplace/Wood stove,20-21,1,≥61,4,1 to 5,6 to 10,7
+31,Man,25 - 30,Daily Smoker,11 to 15,Motor car,5 to 7,101 to 200,140,Traditional radiator heating,18-19,0,,4,1 to 5,≥21,3 to 4
+32,Woman,25 - 30,No smoker,,Motor car,8 to 14,101 to 200,95,Traditional radiator heating,20-21,0,,4,16 to 20,16 to 20,1 to 2
+33,Man,18 - 24,No smoker,,Motor car,≥15,≥500,92,Traditional radiator heating,22-23,0,,4,1 to 5,6 to 10,3 to 4
+34,Woman,25 - 30,3 to 5 month,,Motor car,8 to 14,1 to 50,145,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+35,Woman,25 - 30,Daily Smoker,6 to 10,Public transport,5 to 7,1 to 50,100,Traditional radiator heating,20-21,0,,6,1 to 5,6 to 10,7
+36,Woman,25 - 30,No smoker,,Public transport,,,50,Traditional radiator heating,20-21,0,,8,1 to 5,1 to 5,3 to 4
+37,Woman,25 - 30,No smoker,,Motor car,≥15,1 to 50,120,Traditional radiator heating,20-21,0,,1,6 to 10,1 to 5,1 to 2
+38,Man,25 - 30,No smoker,,Motor car,8 to 14,201 to 500,90,Traditional radiator heating,18-19,0,,6,1 to 5,1 to 5,1 to 2
+39,Man,25 - 30,Daily Smoker,6 to 10,Public transport,1 to 2,1 to 50,250,Traditional radiator heating,18-19,1,1 to 20,1,1 to 5,1 to 5,3 to 4
+40,Woman,25 - 30,No smoker,,Motor car,8 to 14,1 to 50,110,Pellet stove,20-21,0,,4,1 to 5,6 to 10,1 to 2
+41,Woman,18 - 24,3 to 5 month,,Public transport,5 to 7,51 to 100,200,Traditional radiator heating,22-23,0,,2,1 to 5,6 to 10,1 to 2
+42,Woman,25 - 30,No smoker,,Motor car,5 to 7,1 to 50,150,Traditional floor heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+43,Man,25 - 30,Daily Smoker,6 to 10,Motorcycle,8 to 14,101 to 200,120,Traditional radiator heating,20-21,0,,6,1 to 5,1 to 5,7
+44,Man,51 - 60,No smoker,,Motor car,≥15,201 to 500,150,Traditional radiator heating,20-21,1,≥61,0,1 to 5,1 to 5,1 to 2
+45,Man,31 - 40,Daily Smoker,16 to 20,Hybrid car,1 to 2,1 to 50,75,Traditional radiator heating,20-21,0,,1,6 to 10,1 to 5,1 to 2
+46,Woman,25 - 30,3 to 5 week,,Motor car,3 to 4,101 to 200,100,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,7
+47,Woman,25 - 30,No smoker,,Motor car,1 to 2,1 to 50,70,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+48,Man,25 - 30,No smoker,,Motor car,≥15,101 to 200,105,Traditional radiator heating,18-19,0,,2,1 to 5,6 to 10,3 to 4
+49,Man,25 - 30,No smoker,,Motor car,≥15,51 to 100,100,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,3 to 4
+50,Man,31 - 40,No smoker,,Motor car,≥15,51 to 100,50,Traditional radiator heating,22-23,0,,2,1 to 5,1 to 5,3 to 4
+51,Man,25 - 30,No smoker,,Motor car,8 to 14,101 to 200,80,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,3 to 4
+52,Man,18 - 24,No smoker,,Motor car,8 to 14,51 to 100,100,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+53,Woman,25 - 30,No smoker,,Motor car,3 to 4,1 to 50,90,Air conditioner,24-25,0,,0,16 to 20,1 to 5,3 to 4
+54,Woman,25 - 30,3 to 5 month,,Motor car,3 to 4,1 to 50,85,Traditional radiator heating,22-23,0,,6,1 to 5,1 to 5,3 to 4
+55,Man,51 - 60,Daily Smoker,16 to 20,Motor car,≥15,201 to 500,100,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+56,Man,41 - 50,No smoker,,Motor car,≥15,51 to 100,50,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,3 to 4
+57,Woman,31 - 40,No smoker,,Motor car,5 to 7,1 to 50,55,Pellet stove,18-19,0,,0,1 to 5,1 to 5,3 to 4
+58,Man,25 - 30,Daily Smoker,6 to 10,Motor car,8 to 14,101 to 200,300,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,7
+59,Woman,25 - 30,No smoker,,Motor car,≥15,201 to 500,400,Traditional radiator heating,20-21,0,,6,1 to 5,1 to 5,1 to 2
+60,Woman,25 - 30,No smoker,,Motor car,3 to 4,1 to 50,120,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,1 to 2
+61,Woman,51 - 60,No smoker,,Motor car,5 to 7,201 to 500,80,Traditional radiator heating,20-21,0,,0,1 to 5,6 to 10,3 to 4
+62,Woman,51 - 60,No smoker,,Motor car,5 to 7,101 to 200,80,Traditional radiator heating,20-21,0,,0,1 to 5,6 to 10,3 to 4
+63,Man,18 - 24,No smoker,,Motor car,3 to 4,101 to 200,70,Traditional radiator heating,20-21,0,,14,1 to 5,1 to 5,1 to 2
+64,Woman,18 - 24,No smoker,,Motor car,8 to 14,1 to 50,125,Traditional radiator heating,18-19,1,1 to 20,0,1 to 5,11 to 15,1 to 2
+65,Woman,41 - 50,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,18-19,0,,4,1 to 5,1 to 5,1 to 2
+66,Woman,25 - 30,No smoker,,Motor car,3 to 4,51 to 100,170,Traditional radiator heating,18-19,0,,14,1 to 5,6 to 10,3 to 4
+67,Woman,18 - 24,3 to 5 week,,Electric car,≥15,51 to 100,200,Fireplace/Wood stove,20-21,0,,2,1 to 5,1 to 5,0
+68,Woman,18 - 24,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+69,Woman,18 - 24,No smoker,,Public transport,1 to 2,1 to 50,60,Traditional radiator heating,18-19,0,,0,1 to 5,6 to 10,1 to 2
+70,Woman,18 - 24,Daily Smoker,1 to 5,Hybrid car,8 to 14,51 to 100,130,Fireplace/Wood stove,18-19,1,21 to 40,0,1 to 5,6 to 10,1 to 2
+71,Woman,18 - 24,No smoker,,Public transport,,,70,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+72,Woman,31 - 40,No smoker,,Motor car,8 to 14,51 to 100,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+73,Man,18 - 24,3 to 5 week,,Motor car,1 to 2,51 to 100,230,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+74,Woman,18 - 24,No smoker,,Public transport,1 to 2,51 to 100,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,0
+75,Man,18 - 24,No smoker,,Motor car,5 to 7,201 to 500,100,Traditional radiator heating,20-21,0,,4,1 to 5,1 to 5,3 to 4
+76,Woman,51 - 60,No smoker,,Motor car,≥15,1 to 50,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+77,Woman,18 - 24,No smoker,,Public transport,1 to 2,1 to 50,90,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+78,Woman,18 - 24,3 to 5 month,,Public transport,1 to 2,1 to 50,177,Traditional radiator heating,18-19,1,1 to 20,0,1 to 5,1 to 5,0
+79,Man,25 - 30,3 to 5 week,,Motor car,≥15,201 to 500,150,Fireplace/Wood stove,20-21,1,≥61,4,1 to 5,1 to 5,7
+80,Man,25 - 30,Daily Smoker,16 to 20,Motor car,3 to 4,101 to 200,100,Traditional radiator heating,18-19,0,,1,1 to 5,6 to 10,3 to 4
+81,Woman,51 - 60,No smoker,,Motor car,5 to 7,1 to 50,100,Traditional radiator heating,18-19,0,,2,1 to 5,6 to 10,1 to 2
+82,Man,25 - 30,No smoker,,Motor car,≥15,≥500,200,Traditional radiator heating,18-19,1,≥61,10,1 to 5,1 to 5,7
+83,Woman,18 - 24,Daily Smoker,1 to 5,Motor car,5 to 7,51 to 100,110,Pellet stove,20-21,0,,2,1 to 5,1 to 5,3 to 4
+84,Woman,18 - 24,No smoker,,Public transport,,,100,Traditional radiator heating,18-19,0,,0,1 to 5,6 to 10,7
+85,Man,18 - 24,No smoker,,Public transport,1 to 2,51 to 100,85,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,1 to 5,3 to 4
+86,Man,31 - 40,3 to 5 month,,Bicycle,1 to 2,1 to 50,50,Traditional radiator heating,18-19,0,,20,11 to 15,≥21,1 to 2
+87,Man,25 - 30,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,18-19,0,,1,1 to 5,1 to 5,7
+88,Woman,51 - 60,No smoker,,Motor car,3 to 4,1 to 50,50,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+89,Woman,18 - 24,No smoker,,Motor car,8 to 14,51 to 100,150,Traditional radiator heating,22-23,1,1 to 20,8,11 to 15,16 to 20,7
+90,Man,51 - 60,No smoker,,Motor car,≥15,≥500,200,Traditional radiator heating,20-21,1,1 to 20,8,1 to 5,1 to 5,3 to 4
+91,Man,25 - 30,Daily Smoker,16 to 20,Motor car,≥15,≥500,90,Solar heating,24-25,0,,4,11 to 15,11 to 15,7
+92,Woman,18 - 24,Daily Smoker,1 to 5,Public transport,≥15,201 to 500,60,Pellet stove,20-21,0,,4,1 to 5,1 to 5,7
+93,Woman,25 - 30,No smoker,,Public transport,5 to 7,1 to 50,150,Traditional floor heating,20-21,1,≥61,20,1 to 5,6 to 10,1 to 2
+94,Man,31 - 40,No smoker,,Motorcycle,1 to 2,101 to 200,72,Traditional radiator heating,20-21,0,,4,1 to 5,1 to 5,1 to 2
+95,Woman,31 - 40,No smoker,,Public transport,5 to 7,1 to 50,50,Traditional radiator heating,22-23,0,,12,1 to 5,1 to 5,3 to 4
+96,Woman,31 - 40,No smoker,,Motor car,3 to 4,1 to 50,50,Traditional radiator heating,≥26,0,,15,1 to 5,≥21,0
+97,Woman,25 - 30,No smoker,,Motor car,8 to 14,≥500,80,Traditional radiator heating,20-21,0,,4,1 to 5,6 to 10,3 to 4
+98,Man,25 - 30,No smoker,,Public transport,1 to 2,1 to 50,90,Traditional radiator heating,22-23,0,,8,1 to 5,1 to 5,3 to 4
+99,Woman,41 - 50,No smoker,,Motor car,3 to 4,101 to 200,200,Traditional radiator heating,20-21,0,,1,1 to 5,6 to 10,1 to 2
+100,Man,25 - 30,Daily Smoker,6 to 10,Motor car,≥15,≥500,85,Fireplace/Wood stove,18-19,1,≥61,6,1 to 5,1 to 5,3 to 4
+101,Woman,51 - 60,Daily Smoker,6 to 10,Motor car,3 to 4,1 to 50,150,Traditional radiator heating,20-21,1,≥61,2,1 to 5,1 to 5,3 to 4
+102,Man,31 - 40,3 to 5 month,,Bicycle,1 to 2,1 to 50,60,Traditional radiator heating,20-21,0,,20,1 to 5,1 to 5,3 to 4
+103,Woman,25 - 30,3 to 5 week,,Motor car,8 to 14,201 to 500,360,Traditional radiator heating,20-21,1,1 to 20,6,1 to 5,6 to 10,1 to 2
+104,Man,25 - 30,No smoker,,Motor car,≥15,51 to 100,120,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,3 to 4
+105,Woman,18 - 24,No smoker,,Public transport,3 to 4,51 to 100,180,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,1 to 2
+106,Woman,41 - 50,No smoker,,Motor car,5 to 7,201 to 500,90,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+107,Woman,25 - 30,No smoker,,Motor car,5 to 7,201 to 500,110,Traditional floor heating,20-21,0,,4,1 to 5,1 to 5,1 to 2
+108,Woman,51 - 60,No smoker,,Motor car,1 to 2,51 to 100,70,Traditional radiator heating,18-19,0,,4,1 to 5,1 to 5,1 to 2
+109,Woman,51 - 60,No smoker,,Motor car,5 to 7,1 to 50,123,Pellet stove,20-21,1,1 to 20,0,1 to 5,6 to 10,1 to 2
+110,Man,51 - 60,No smoker,,Motor car,5 to 7,1 to 50,90,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+111,Woman,25 - 30,No smoker,,Motor car,≥15,101 to 200,229,Traditional radiator heating,18-19,1,1 to 20,1,1 to 5,6 to 10,1 to 2
+112,Man,25 - 30,No smoker,,Motor car,3 to 4,1 to 50,75,Traditional radiator heating,20-21,0,,16,1 to 5,11 to 15,1 to 2
+113,Woman,25 - 30,3 to 5 week,,Motor car,3 to 4,51 to 100,70,Traditional floor heating,22-23,0,,2,1 to 5,1 to 5,3 to 4
+114,Man,31 - 40,No smoker,,Motor car,1 to 2,51 to 100,50,Traditional radiator heating,20-21,0,,10,16 to 20,1 to 5,3 to 4
+115,Man,51 - 60,No smoker,,Motor car,≥15,≥500,90,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+116,Woman,18 - 24,Daily Smoker,6 to 10,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+117,Woman,41 - 50,No smoker,,Motor car,8 to 14,51 to 100,95,Traditional radiator heating,20-21,0,,0,1 to 5,11 to 15,3 to 4
+118,Woman,51 - 60,No smoker,,Motor car,8 to 14,1 to 50,100,Traditional radiator heating,20-21,0,,0,6 to 10,6 to 10,1 to 2
+119,Woman,31 - 40,No smoker,,Motor car,≥15,1 to 50,90,Traditional radiator heating,18-19,0,,0,1 to 5,1 to 5,3 to 4
+120,Woman,51 - 60,No smoker,,Motor car,5 to 7,1 to 50,150,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,≥21,1 to 2
+121,Woman,31 - 40,No smoker,,Hybrid car,5 to 7,101 to 200,90,Traditional floor heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+122,Woman,31 - 40,No smoker,,Motor car,3 to 4,51 to 100,60,Pellet stove,20-21,0,,0,1 to 5,1 to 5,1 to 2
+123,Woman,51 - 60,Daily Smoker,16 to 20,Motor car,8 to 14,51 to 100,120,Traditional radiator heating,20-21,0,,0,1 to 5,6 to 10,1 to 2
+124,Woman,41 - 50,Daily Smoker,11 to 15,Motor car,1 to 2,1 to 50,150,Pellet stove,20-21,0,,0,1 to 5,1 to 5,1 to 2
+125,Woman,18 - 24,No smoker,,Bicycle,,,80,Traditional radiator heating,20-21,0,,10,1 to 5,1 to 5,1 to 2
+126,Woman,51 - 60,No smoker,,Motor car,8 to 14,1 to 50,120,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+127,Man,31 - 40,Daily Smoker,11 to 15,Motorcycle,≥15,201 to 500,90,Traditional floor heating,20-21,0,,4,6 to 10,6 to 10,7
+128,Woman,51 - 60,No smoker,,Motor car,3 to 4,101 to 200,140,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+129,Man,31 - 40,Daily Smoker,16 to 20,Motor car,8 to 14,101 to 200,75,Traditional radiator heating,20-21,0,,2,1 to 5,11 to 15,3 to 4
+130,Woman,51 - 60,No smoker,,Motor car,1 to 2,51 to 100,130,Traditional radiator heating,18-19,0,,0,1 to 5,6 to 10,1 to 2
+131,Man,51 - 60,No smoker,,Motor car,1 to 2,1 to 50,120,Traditional radiator heating,18-19,0,,0,1 to 5,11 to 15,1 to 2
+132,Woman,41 - 50,No smoker,,Motor car,≥15,101 to 200,160,Traditional radiator heating,20-21,0,,2,1 to 5,≥21,3 to 4
+133,Woman,51 - 60,No smoker,,Motor car,5 to 7,1 to 50,135,Traditional floor heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+134,Man,51 - 60,No smoker,,Bicycle,3 to 4,51 to 100,206,Traditional radiator heating,18-19,1,41 to 60,0,1 to 5,16 to 20,3 to 4
+135,Woman,51 - 60,No smoker,,Bicycle,5 to 7,51 to 100,180,Traditional radiator heating,18-19,1,21 to 40,0,1 to 5,≥21,1 to 2
+136,Woman,41 - 50,No smoker,,Motor car,1 to 2,1 to 50,100,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,3 to 4
+137,Man,31 - 40,No smoker,,Public transport,1 to 2,101 to 200,60,Traditional floor heating,20-21,0,,2,1 to 5,1 to 5,1 to 2
+138,Man,51 - 60,No smoker,,Motor car,≥15,201 to 500,50,Traditional radiator heating,18-19,0,,0,1 to 5,1 to 5,1 to 2
+139,Woman,51 - 60,No smoker,,Motor car,5 to 7,51 to 100,75,Traditional radiator heating,18-19,0,,4,1 to 5,1 to 5,1 to 2
+140,Woman,25 - 30,No smoker,,Motor car,5 to 7,51 to 100,140,Traditional radiator heating,20-21,0,,0,1 to 5,1 to 5,1 to 2
+141,Woman,25 - 30,No smoker,,Hybrid car,1 to 2,51 to 100,200,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,1 to 2
+142,Woman,18 - 24,No smoker,,Public transport,,,45,Traditional radiator heating,20-21,0,,2,1 to 5,6 to 10,1 to 2
+143,Woman,25 - 30,No smoker,,Hybrid car,≥15,101 to 200,130,Pellet stove,18-19,1,1 to 20,2,1 to 5,1 to 5,1 to 2
+144,Man,25 - 30,No smoker,,Motor car,5 to 7,1 to 50,100,Traditional radiator heating,20-21,0,,2,1 to 5,1 to 5,7
+145,Woman,18 - 24,No smoker,,Motor car,3 to 4,1 to 50,275,Traditional floor heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+146,Woman,18 - 24,No smoker,,Motor car,8 to 14,51 to 100,170,Traditional radiator heating,20-21,1,1 to 20,2,6 to 10,1 to 5,7
+147,Woman,51 - 60,No smoker,,Motor car,≥15,51 to 100,200,Traditional radiator heating,18-19,1,21 to 40,2,1 to 5,6 to 10,1 to 2
+148,Man,51 - 60,Daily Smoker,11 to 15,Motor car,3 to 4,51 to 100,70,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,1 to 5,3 to 4
+149,Woman,41 - 50,No smoker,,Motor car,≥15,101 to 200,400,Traditional floor heating,20-21,1,1 to 20,2,1 to 5,1 to 5,3 to 4
+150,Woman,41 - 50,No smoker,,Motor car,≥15,101 to 200,80,Traditional radiator heating,18-19,0,,2,1 to 5,1 to 5,1 to 2
+151,Woman,51 - 60,3 to 5 month,,Motor car,1 to 2,1 to 50,70,Traditional radiator heating,20-21,1,1 to 20,0,1 to 5,1 to 5,1 to 2
+152,Woman,51 - 60,No smoker,,Motor car,8 to 14,51 to 100,130,Traditional radiator heating,18-19,0,,0,1 to 5,1 to 5,3 to 4
+153,Woman,25 - 30,No smoker,,Hybrid car,≥15,201 to 500,180,Traditional floor heating,20-21,0,,2,1 to 5,1 to 5,3 to 4
+154,Woman,25 - 30,No smoker,,Public transport,3 to 4,1 to 50,55,Traditional radiator heating,20-21,0,,6,1 to 5,1 to 5,1 to 2
+155,Woman,18 - 24,No smoker,,Motor car,,,140,Traditional radiator heating,20-21,1,1 to 20,2,1 to 5,6 to 10,3 to 4
+156,Man,18 - 24,No smoker,,Public transport,1 to 2,1 to 50,150,Traditional radiator heating,18-19,0,,2,1 to 5,6 to 10,7
+157,Man,18 - 24,Daily Smoker,1 to 5,Public transport,3 to 4,51 to 100,62,Pellet stove,20-21,0,,20,1 to 5,1 to 5,3 to 4
+158,Woman,18 - 24,No smoker,,Motor car,3 to 4,101 to 200,123,Fireplace/Wood stove,20-21,1,≥61,0,6 to 10,≥21,3 to 4
+159,Man,18 - 24,No smoker,,Motor car,3 to 4,201 to 500,80,Traditional radiator heating,22-23,1,1 to 20,2,1 to 5,1 to 5,3 to 4
+160,Man,18 - 24,No smoker,,Motor car,8 to 14,101 to 200,100,Traditional radiator heating,20-21,0,,4,6 to 10,6 to 10,7
+161,Non-Binary,31 - 40,Daily Smoker,6 to 10,Hybrid car,1 to 2,1 to 50,200,Pellet stove,20-21,1,21 to 40,3,16 to 20,11 to 15,7
+162,Non-Binary,18 - 24,Daily Smoker,11 to 15,Bicycle,8 to 14,101 to 200,100,Traditional radiator heating,18-19,1,≥61,0,1 to 5,6 to 10,3 to 4
+163,Woman,25 - 30,Daily Smoker,6 to 10,Motor car,5 to 7,1 to 50,70,Traditional radiator heating,20-21,0,,1,1 to 5,6 to 10,3 to 4
+164,Woman,18 - 24,No smoker,,Motor car,3 to 4,101 to 200,123,Fireplace/Wood stove,20-21,1,≥61,0,6 to 10,≥21,3 to 4
